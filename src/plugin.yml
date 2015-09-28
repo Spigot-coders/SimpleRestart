@@ -1,0 +1,7 @@
+name: SimpleRestart
+author: augesrob
+main: me.augesrob.main.Main
+version: 1.0.0
+commands:
+ sr:
+    description: Simple Server Restart
