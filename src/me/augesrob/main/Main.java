@@ -68,7 +68,7 @@ public class Main
           player.sendMessage("   ");
           player.sendMessage(ChatColor.GRAY + "Example: /sr 30s <--- server restarts in 30 seconds");
           player.sendMessage("   ");
-          player.sendMessage(ChatColor.RED + ********************************");
+          player.sendMessage(ChatColor.RED + "********************************");
           player.sendMessage(ChatColor.GOLD + "Made by augesrob");
         }
         else if (args[0].equals("1sec"))
